@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css2?family=Jaldi:wght@400;700&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-jaldi: Jaldi;
+
+  /* font sizes */
+  --font-size-5xl: 1.5rem;
+  --font-size-smi: 0.813rem;
+  --font-size-base: 1rem;
+  --font-size-lgi: 1.188rem;
+  --font-size-mini: 0.938rem;
+  --font-size-sm: 0.875rem;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-black: #000;
+  --color-steelblue: #2160aa;
+  --color-gainsboro: #d9d9d9;
+  --color-darkslateblue-100: #003b73;
+  --color-darkslateblue-200: #002950;
+
+  /* Paddings */
+  --padding-3xs: 0.625rem;
+  --padding-6xs: 0.437rem;
+  --padding-5xs: 0.5rem;
+  --padding-4xs: 0.562rem;
+}
